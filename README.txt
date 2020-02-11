@@ -1,0 +1,3 @@
+# Testing Tool Written in Python for Roadway Analysis Application
+
+Although the application can't be tested, I included the documentation I wrote for the testing tool that was written in Python using Locust (a load testing framework) that defines user behavior to test the Roadway Analysis Web Application we were currently working on. This test was used to load in a bunch of users to do different user behaviors to make sure the web application was working as expected.
